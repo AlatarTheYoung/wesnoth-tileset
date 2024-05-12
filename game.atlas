@@ -1,0 +1,69 @@
+
+game.png
+size: 1024, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/Wesnoth/Units/Cyborg
+  rotate: false
+  xy: 4, 4
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+TileSets/Wesnoth/Units/Elite Pikeman
+  rotate: false
+  xy: 108, 4
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+TileSets/Wesnoth/Units/Entmates
+  rotate: false
+  xy: 212, 4
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+TileSets/Wesnoth/Units/Fanatic
+  rotate: false
+  xy: 316, 4
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+TileSets/Wesnoth/Units/Gaius Duilius
+  rotate: false
+  xy: 420, 4
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+TileSets/Wesnoth/Units/Great Admiral
+  rotate: false
+  xy: 524, 4
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+TileSets/Wesnoth/Units/Great General
+  rotate: false
+  xy: 628, 4
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+TileSets/Wesnoth/Units/Jeanne d'Arc
+  rotate: false
+  xy: 732, 4
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+TileSets/Wesnoth/Units/Worker
+  rotate: false
+  xy: 836, 4
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
