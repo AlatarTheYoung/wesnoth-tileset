@@ -27,12 +27,12 @@
 
 		"tradeRequest": "Are you ready to trade ? We are happy to share a pipe-weed with you on the desk of a skynet to seal the deal.",
 		
-		"uniqueName": "To the sea",
+		"uniqueName": "Seaside",
 		"uniques": [
 			"Comment [-33% maintenance costs for Water units]",
             "Comment [Water units may heal outside of friendly territory]",
             "Comment [Water units can build Water improvements on tiles]",
-            "[Water] units gain the [To the sea] promotion <hidden from users>"
+            "[Water] units gain the [Seaside] promotion <hidden from users>"
 		],
 
 		"cities": ["Bywater","Pincup","Greenholm","Tuckborough","Underhill","Woodhall",
