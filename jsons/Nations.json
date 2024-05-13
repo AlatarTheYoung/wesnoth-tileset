@@ -32,7 +32,7 @@
 			"Comment [-33% maintenance costs for Water units]",
             "Comment [Water units may heal outside of friendly territory]",
             "Comment [Water units can build Water improvements on tiles]",
-            "[Water] units gain the [Light of the East] promotion <hidden from users>"
+            "[Water] units gain the [Sea Nomads] promotion <hidden from users>"
 		],
 
 		"cities": ["Bywater","Pincup","Greenholm","Tuckborough","Underhill","Woodhall",
